@@ -1,0 +1,18 @@
+{
+  "name": "全球均衡配置",
+  "short_name": "全球均衡",
+  "id": "tiered-rsi-balanced",
+  "version": "0.6.1",
+  "description": "纯客户端跟踪分层 RSI 与融资余额 z-score",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f3ef",
+  "theme_color": "#f5f3ef",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
