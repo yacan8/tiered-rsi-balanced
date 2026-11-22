@@ -1,4 +1,4 @@
-const cacheName = 'tiered-rsi-balanced-20261122185709';
+const cacheName = 'tiered-rsi-balanced-20261122202151';
 
 self.addEventListener('install', () => {
   self.skipWaiting();
